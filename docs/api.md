@@ -1,1 +1,1 @@
-::: <package-name-underscore>.example
+::: app_store_connect_api.example
